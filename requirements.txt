@@ -1,0 +1,12 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+python-dotenv>=1.0
+openai>=1.40
+kagglehub>=0.3
+joblib>=1.4
+matplotlib>=3.9
+seaborn>=0.13
+pytest>=8.0
